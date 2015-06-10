@@ -1,0 +1,1 @@
+Lattice based fluid simulation in java, with a simple demo interface.
